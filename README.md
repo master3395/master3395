@@ -8,7 +8,7 @@
   
 <p><a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=Master3395&amp;count_private=true&amp;include_all_commits=true&amp;show_icons=true&amp;theme=dark&amp;icon_color=fff&amp;hide_border=true"><img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Master3395&layout=compact&amp;count_private=true&amp;include_all_commits=true&amp;show_icons=true&amp;theme=dark&amp;icon_color=fff&amp;hide_border=true" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=Master3395&amp;theme=dark&amp;hide_border=true&amp;layout=compact&amp;langs_count=6" style="max-width: 100%;"></a></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Master3395&label=Profile%20views&color=0e75b6&style=flat" alt="imintheicu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Master3395&label=Profile%20views&color=0e75b6&style=flat" alt="Master3395" /> </p>
   
 <p dir="auto">Hi <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>, I am a hobbyist developer based in <a target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/Norway"><img width="20" align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg" style="max-width: 100%;"></a> <strong>Norway</strong>.</p>
 <p dir="auto">You can follow me on these platforms to get more information about me and follow the news about my projects!</p>
