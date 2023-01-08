@@ -17,10 +17,13 @@
 <p dir="auto">Currently, I use these technologies for my projects:</p>
 <p dir="auto"> <a target="_blank" rel="noopener noreferrer" href="https://nodejs.dev/"><img alt="Node.js" align="center" src="https://camo.githubusercontent.com/b457c1ccc45a72fb0d9105d333a3584e3b42c9114181f705f2a637b360040a04/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3433383533643f7374796c653d666c6174266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Node.js-43853d?style=flat&amp;logo=Node.js&amp;logoColor=white" style="max-width: 100%;">
 <a href="https://www.php.net" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.lua.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.javascript.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a>
-  <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.python.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.linux.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="max-width: 100%;"> </a>
+
 
 
 </article>
