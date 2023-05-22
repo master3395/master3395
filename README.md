@@ -22,7 +22,7 @@
 <a href="https://twitch.tv/Master3395" rel="nofollow"><img align="center" alt="Twitch" src="https://camo.githubusercontent.com/fccf793a9d23f656b702bf9dce1f60e8b5c716cdab27aff20a574943aca713c8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5477697463682d3634343161353f7374796c653d666c6174266c6f676f3d747769746368266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Twitch-6441a5?style=flat&amp;logo=twitch&amp;logoColor=white" style="max-width: 100%;"></a></p>
 
 <p dir="auto">Currently, I use these technologies for my projects:</p>
-  
+
 <p dir="auto"><a href="https://nodejs.dev/" rel="nofollow"><img align="center" alt="Node.js" src="https://camo.githubusercontent.com/b457c1ccc45a72fb0d9105d333a3584e3b42c9114181f705f2a637b360040a04/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3433383533643f7374796c653d666c6174266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Discord-5865f2?style=flat&amp;logo=discord&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://www.php.net" rel="nofollow"><img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" data-canonical-src="https://img.shields.io/badge/-Discord-5865f2?style=flat&amp;logo=discord&amp;logoColor=white" style="max-width: 100%;"></a>
 <a href="https://www.lua.org/" rel="nofollow"><img align="center" alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" data-canonical-src="https://img.shields.io/badge/-Discord-5865f2?style=flat&amp;logo=discord&amp;logoColor=white" style="max-width: 100%;"></a>
@@ -33,5 +33,6 @@
 <a href="https://www.python.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.linux.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="max-width: 100%;"> </a>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Master3395&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </article>
