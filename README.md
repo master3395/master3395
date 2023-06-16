@@ -32,6 +32,8 @@
 <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.python.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.linux.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://coffeescript.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original.svg" alt="Linux" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://visualstudio.microsoft.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Linux" width="40" height="40" style="max-width: 100%;"> </a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Master3395&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
