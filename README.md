@@ -37,6 +37,7 @@
 <a href="https://www.w3schools.com/c/c_intro.php" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="Linux" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://discord.js.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/discordjs/discordjs-original.svg" alt="Linux" width="40" height="40" style="max-width: 100%;"> </a>
 <a href="https://www.docker.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Linux" width="40" height="40" style="max-width: 100%;"> </a>
+<a href="https://www.typescriptlang.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="Linux" width="40" height="40" style="max-width: 100%;"> </a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Master3395&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
