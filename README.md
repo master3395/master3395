@@ -28,8 +28,6 @@ Hi 👋, I’m a hobbyist developer based in <img width="20" align="center" src=
 - 📰 Owner and creator of [NewsTargeted.com](https://NewsTargeted.com)
 - 💻 I work with PHP, JavaScript, MySQL, HTML, CSS, Lua, Python, and more.
 - 🛠️ I use Node.js, Docker, TypeScript, Discord.js, and other modern tools.
-- 🏆 [![trophy](https://github-profile-trophy.vercel.app/?username=Master3395&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ### 🌐 Web Development Services
