@@ -33,8 +33,8 @@ Hi 👋, I’m a hobbyist developer based in <img width="20" align="center" src=
 ### 🌐 Web Development Services
 
 I offer custom website development for individuals and small businesses!  
-- **Affordable pricing** – I don’t charge much for website creation.
-- **Domain not included** – You’ll need to purchase your own domain.
+- **Affordable pricing** - I don’t charge much for website creation.
+- **Domain not included** - You’ll need to purchase your own domain.
 - **Modern, mobile-friendly, and SEO-optimized sites.**
 - **Technologies:** PHP, MySQL, JavaScript, HTML, CSS, CMSMS, and more.
 
