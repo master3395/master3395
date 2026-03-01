@@ -23,7 +23,7 @@
 
 ### About Me
 
-Hi 👋, I’m a hobbyist developer based in <img width="20" align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg"> <strong>Norway</strong>.
+Hi 👋, I'm a hobbyist developer based in <img width="20" align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg"> <strong>Norway</strong>.
 
 - 📰 Owner and creator of [NewsTargeted.com](https://NewsTargeted.com)
 - 💻 I work with PHP, JavaScript, MySQL, HTML, CSS, Lua, Python, and more.
@@ -33,8 +33,8 @@ Hi 👋, I’m a hobbyist developer based in <img width="20" align="center" src=
 ### 🌐 Web Development Services
 
 I offer custom website development for individuals and small businesses!  
-- **Affordable pricing** - I don’t charge much for website creation.
-- **Domain not included** - You’ll need to purchase your own domain.
+- **Affordable pricing** - I don't charge much for website creation.
+- **Domain not included** - You'll need to purchase your own domain.
 - **Modern, mobile-friendly, and SEO-optimized sites.**
 - **Technologies:** PHP, MySQL, JavaScript, HTML, CSS, CMSMS, and more.
 
@@ -79,6 +79,21 @@ Explore the various services and tools available on NewsTargeted.com:
   <a href="https://webhook.newstargeted.com/" target="_blank" rel="nofollow">
     <img src="https://img.shields.io/badge/Webhook-5865f2?style=flat-square&logo=webhook&logoColor=white" alt="Webhook Service">
   </a>
+  <a href="https://classroom.newstargeted.com/" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/Classroom-5865f2?style=flat-square&logo=book&logoColor=white" alt="Classroom">
+  </a>
+  <a href="https://games.newstargeted.com/" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/Games-5865f2?style=flat-square&logo=gamepad&logoColor=white" alt="Games">
+  </a>
+  <a href="https://rbxstats.newstargeted.com/" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/RBXStats-5865f2?style=flat-square&logo=roblox&logoColor=white" alt="RBXStats">
+  </a>
+  <a href="https://status.newstargeted.com/" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/Status-5865f2?style=flat-square&logo=statuspage&logoColor=white" alt="Status">
+  </a>
+  <a href="https://yourls.newstargeted.com/" target="_blank" rel="nofollow">
+    <img src="https://img.shields.io/badge/YOURLS-5865f2?style=flat-square&logo=link&logoColor=white" alt="YOURLS">
+  </a>
 </p>
 
 **Quick Links:**
@@ -92,6 +107,11 @@ Explore the various services and tools available on NewsTargeted.com:
 - 🪟 [MAS Service](https://mas.newstargeted.com/) - Master3395's Administration Service for Roblox moderation
 - 💾 [Raw Data](https://rawdata.newstargeted.com/) - Data access and export
 - 🪝 [Webhook Service](https://webhook.newstargeted.com/) - Webhook management and testing
+- 📚 [Classroom](https://classroom.newstargeted.com/) - Classroom monitoring and educational tools
+- 🎮 [Games](https://games.newstargeted.com/) - Browser games and simulators
+- 📈 [RBXStats](https://rbxstats.newstargeted.com/) - Roblox statistics and analytics
+- ✅ [Status](https://status.newstargeted.com/) - Service status and uptime
+- 🔗 [YOURLS](https://yourls.newstargeted.com/) - Short URL service
 
 ---
 
@@ -143,5 +163,5 @@ Check out my Discord bot available in the Discord App Directory:
 ---
 
 <p align="center">
-  <b>Let’s build something great together!</b>
-</p> 
+  <b>Let's build something great together!</b>
+</p>
