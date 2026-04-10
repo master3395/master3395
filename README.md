@@ -9,13 +9,13 @@
 <table align="center">
   <tr>
     <td valign="top" width="50%">
-      <a href="https://github-readme-stats.vercel.app/api?username=Master3395&count_private=true&include_all_commits=true&show_icons=true&theme=dark&icon_color=fff&hide_border=true">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Master3395&count_private=true&include_all_commits=true&show_icons=true&theme=dark&icon_color=fff&hide_border=true" alt="GitHub Stats">
+      <a href="https://github.com/master3395">
+        <img width="100%" src="./profile/stats.svg" alt="GitHub Stats">
       </a>
     </td>
     <td valign="top" width="50%">
-      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Master3395&layout=compact&count_private=true&include_all_commits=true&show_icons=true&theme=dark&icon_color=fff&hide_border=true">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Master3395&layout=compact&count_private=true&include_all_commits=true&show_icons=true&theme=dark&icon_color=fff&hide_border=true" alt="Top Languages">
+      <a href="https://github.com/master3395">
+        <img width="100%" src="./profile/top-langs.svg" alt="Top Languages">
       </a>
     </td>
   </tr>
