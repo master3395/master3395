@@ -6,14 +6,20 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://readme-stats-github.vercel.app/api?username=Master3395&count_private=true&include_all_commits=true&show_icons=true&theme=dark&icon_color=fff&hide_border=true">
-    <img width="50%" align="right" src="https://readme-stats-github.vercel.app/api?username=Master3395&count_private=true&include_all_commits=true&show_icons=true&theme=dark&icon_color=fff&hide_border=true" alt="GitHub Stats">
-  </a>
-  <a href="https://readme-stats-github.vercel.app/api/top-langs/?username=Master3395&layout=compact&count_private=true&include_all_commits=true&show_icons=true&theme=dark&icon_color=fff&hide_border=true">
-    <img width="50%" align="right" src="https://readme-stats-github.vercel.app/api/top-langs/?username=Master3395&layout=compact&count_private=true&include_all_commits=true&show_icons=true&theme=dark&icon_color=fff&hide_border=true" alt="Top Languages">
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://github-readme-stats.vercel.app/api?username=Master3395&count_private=true&include_all_commits=true&show_icons=true&theme=dark&icon_color=fff&hide_border=true">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Master3395&count_private=true&include_all_commits=true&show_icons=true&theme=dark&icon_color=fff&hide_border=true" alt="GitHub Stats">
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Master3395&layout=compact&count_private=true&include_all_commits=true&show_icons=true&theme=dark&icon_color=fff&hide_border=true">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Master3395&layout=compact&count_private=true&include_all_commits=true&show_icons=true&theme=dark&icon_color=fff&hide_border=true" alt="Top Languages">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Master3395&label=Profile%20views&color=0e75b6&style=flat" alt="Master3395" />
