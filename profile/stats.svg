@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Master3395's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 19, Total Commits  : 963, Total PRs: 233, Total Issues: 262, Contributed to (last year): 11</desc>
+        <title id="titleId">Kim Birkeland Skorgenes' GitHub Stats, Rank: B+</title>
+        <desc id="descId">Total Stars Earned: 19, Total Commits  : 963, Total PRs: 234, Total Issues: 262, Contributed to (last year): 12</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 112.39517636142355;
+        stroke-dashoffset: 112.36096040194302;
       }
     }
   
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Master3395's GitHub Stats</text>
+      >Kim Birkeland Skorgenes' GitHub Stats</text>
     </g>
       </g>
     
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >233</text>
+      >234</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >11</text>
+      >12</text>
     </g>
   </g>
     </svg>
