@@ -1,6 +1,6 @@
 # Generates github-readme-stats SVGs into profile/ (no external Vercel dependency).
-# Optional: add repo secret README_STATS_PAT (classic PAT: repo + read:user) for private contributions.
-# See: https://github.com/readme-tools/github-readme-stats-action
+# Requires repo secret README_STATS_PAT (classic PAT: repo + read:user).
+# See: https://github.com/stats-organization/github-readme-stats-action
 
 name: Update README cards
 
@@ -26,21 +26,41 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Require README_STATS_PAT
+        env:
+          README_STATS_PAT: ${{ secrets.README_STATS_PAT }}
+        run: |
+          if [ -z "$README_STATS_PAT" ]; then
+            echo "::error::Missing secret README_STATS_PAT (classic PAT with repo + read:user)."
+            exit 1
+          fi
+
       - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: "username=${{ github.repository_owner }}&count_private=true&include_all_commits=true&show_icons=true&theme=dark&icon_color=fff&hide_border=true"
           path: profile/stats.svg
-          token: ${{ secrets.README_STATS_PAT || secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.README_STATS_PAT }}
+          fail_on_error: true
 
       - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: "username=${{ github.repository_owner }}&layout=compact&count_private=true&include_all_commits=true&show_icons=true&theme=dark&icon_color=fff&hide_border=true"
           path: profile/top-langs.svg
-          token: ${{ secrets.README_STATS_PAT || secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.README_STATS_PAT }}
+          fail_on_error: true
+
+      - name: Reject error SVGs
+        run: |
+          for f in profile/stats.svg profile/top-langs.svg; do
+            if grep -q "Something went wrong" "$f"; then
+              echo "::error::$f still contains an error card"
+              exit 1
+            fi
+          done
 
       - name: Commit cards
         run: |
